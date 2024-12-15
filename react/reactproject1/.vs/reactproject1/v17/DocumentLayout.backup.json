@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanin\\Documents\\VSCode\\react\\reactproject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57CC16E5-3F96-4DB0-B775-BC06E5B12821}|reactproject1.esproj|c:\\users\\tanin\\documents\\vscode\\react\\reactproject1\\app\\page.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57CC16E5-3F96-4DB0-B775-BC06E5B12821}|reactproject1.esproj|solutionrelative:app\\page.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CC16E5-3F96-4DB0-B775-BC06E5B12821}|reactproject1.esproj|c:\\users\\tanin\\documents\\vscode\\react\\reactproject1\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57CC16E5-3F96-4DB0-B775-BC06E5B12821}|reactproject1.esproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CC16E5-3F96-4DB0-B775-BC06E5B12821}|reactproject1.esproj|c:\\users\\tanin\\documents\\vscode\\react\\reactproject1\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57CC16E5-3F96-4DB0-B775-BC06E5B12821}|reactproject1.esproj|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\tanin\\Documents\\VSCode\\react\\reactproject1\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\tanin\\Documents\\VSCode\\react\\reactproject1\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T17:55:36.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\tanin\\Documents\\VSCode\\react\\reactproject1\\src\\main.jsx",
+              "RelativeDocumentMoniker": "src\\main.jsx",
+              "ToolTip": "C:\\Users\\tanin\\Documents\\VSCode\\react\\reactproject1\\src\\main.jsx",
+              "RelativeToolTip": "src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-14T15:45:27.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "page.jsx",
+              "DocumentMoniker": "C:\\Users\\tanin\\Documents\\VSCode\\react\\reactproject1\\App\\page.jsx",
+              "RelativeDocumentMoniker": "App\\page.jsx",
+              "ToolTip": "C:\\Users\\tanin\\Documents\\VSCode\\react\\reactproject1\\App\\page.jsx",
+              "RelativeToolTip": "App\\page.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-14T15:38:27.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
